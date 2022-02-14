@@ -116,6 +116,7 @@ object Question2 extends App {
   players += (p8)
   players += (p9)
   players += (p10)
+  //queries
   println("Player with the highest run scored: ")
   p1.printPlayer(p1.highest_score(players))
   println()
